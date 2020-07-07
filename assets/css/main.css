@@ -2244,7 +2244,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images//FotosDuxi/background/haus.jpeg");
+		background: url("images/overlay.png"), url("../../images//FotosDuxi/background/intro.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2254,7 +2254,7 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/FotosDuxi/background/ernistreith.jpeg");
+		background: url("images/overlay.png"), url("../../images/FotosDuxi/background/snow.jpeg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
